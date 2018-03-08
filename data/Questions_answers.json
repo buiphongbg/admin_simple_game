@@ -1,0 +1,345 @@
+[
+{
+    "Level": 1,
+    "NumOfCard": 9,
+    "TopicQuest": "Đây là một quyền thiết yêu của trẻ em",
+    "TopicAnswer": "quyenduoccochame",
+    "NameOfPic": "Pic/quyenduoccochame.jpg",
+    "Questions":
+    [
+        {
+            "quest": " Người trong độ tuổi nào thì được pháp luật quy định là Trẻ em? (Theo quy định tại Điều 1 Luật Trẻ em)",
+            "A": "Dưới 16 tuổi",
+            "B": "Dưới 18 tuổi",
+            "C": "Dưới 10 tuổi",
+            "D": "Cả 3 phương án trên đều sai",
+            "answer": "A"
+        },
+        {
+            "quest": "Bỏ rơi, bỏ mặc trẻ em là gì?",
+            "A": "Là hành vi ông bà, cha mẹ, những người lớn trong gia đình không quan tâm, không chăm sóc con cháu của mình.",
+            "B": "Là hành vi của cha, mẹ, người chăm sóc trẻ em không thực hiện hoặc thực hiện không đầy đủ nghĩa vụ, trách nhiệm của mình trong việc chăm sóc, nuôi dưỡng trẻ em.",
+            "C": "Là bỏ vứt bỏ con cái",
+            "D": "Là hành vi của người lớn không yêu thương trẻ nhỏ",
+            "answer": "B"
+        },
+        {
+            "quest": "Theo Luật Bảo vệ, chăm sóc và giáo dục trẻ em, trẻ em không được làm gì?",
+            "A": "Tự ý bỏ học, sống lang thang.",
+            "B": "Lao động ",
+            "C": "Kết bạn khi bố mẹ chưa cho phép",
+            "D": "Đi chơi xa ",
+            "answer": "A"
+        },
+        {
+            "quest": "Kiếm tiền hỗ trợ gia đình có phải bổn phận của trẻ em hay không ?",
+            "A": "Không",
+            "B": "Có",
+            "C": "Có nhưng từ 15 tuổi trở lên",
+            "D": "Cả 3 phương án trên đều sai",
+            "answer": "A"
+        },
+        {
+            "quest": "Theo Điều 16 Luật Bảo vệ, chăm sóc và giáo dục trẻ em, trường hợp nào không phải trả học phí?",
+            "A": "Trẻ em học bậc tiểu học trong các bậc phổ cập",
+            "B": "Trẻ em học bậc THCS trong các bậc phổ cập",
+            "C": "Trẻ em có hoàn cảnh khó khăn",
+            "D": "Trẻ em có người thân là thương, bệnh binh",
+            "answer": "A"
+        },
+        {
+           "quest": "Người mẹ vứt bỏ con mới đẻ dẫn đến hậu quả đứa trẻ chết bị xử phạt như thế nào?",
+            "A": "Phạt tù từ 2 tháng đến 3 năm",
+            "B": "Không bị xử phạt tù",
+            "C": "Bị cấm sinh con ",
+            "D": "Bị phạt tù 10 năm",
+            "answer": "A"
+        },
+        {
+            "quest": "Trách nhiệm bảo vệ trẻ em thuộc về ai ? ",
+            "A": "Nhà trường",
+            "B": "Gia đình",
+            "C": "Nhà Nước, Xã Hội ",
+            "D": "Tất cả các phương án trên",
+            "answer": "D"
+        },
+        {
+            "quest": "Đảm bảo trẻ du lịch đầy đủ có phải trách nhiệm của người giám hộ, cha mẹ của trẻ em theo Luật Bảo Vệ, Chăm Sóc và Giáo dục trẻ em hay không ?",
+            "A": "Đúng",
+            "B": "Không ",
+            "C": "Là trách nhiệm của nhà trường ",
+            "D": "Là trách nhiệm của Xã Hội",
+            "answer": "B"
+        },
+        {
+            "quest": "Luật Trẻ em quy định như thế nào là trẻ em có hoàn cảnh đặc biệt?",
+            "A": "Trẻ sơ sinh",
+            "B": "Trẻ mồ côi",
+            "C": "không đủ điều kiện thực hiện được quyền sống, quyền được bảo vệ, quyền được chăm sóc, nuôi dưỡng, quyền học tập, cần có sự hỗ trợ, can thiệp đặc biệt của Nhà nước, gia đình và xã hội để được an toàn, hòa nhập gia đình, cộng đồng",
+            "D": "Tất cả các đáp án trên.",
+            "answer": "C"
+        },
+        {
+            "quest": "Trẻ em có bổn phận gì đối với gia đình?",
+            "A": "A: Kính trọng, lễ phép, hiếu thảo với ông bà, cha mẹ",
+            "B": "B : Yêu thương, quan tâm, chia sẻ tình cảm, nguyện vọng với cha mẹ và các thành viên trong gia đình, dòng họ",
+            "C": "C : Học tập, rèn luyện, giữ gìn nề nếp gia đình, phụ giúp cha mẹ và các thành viên trong gia đình những công việc phù hợp với độ tuổi, giới tính và sự phát triển của trẻ em.",
+            "D": "D : Cả A,B và C",
+            "answer": "D"
+        },
+        {
+            "quest": "Trường hợp nào trẻ em cần được chăm sóc thay thế?",
+            "A": "Trẻ em không có anh chị",
+            "B": "Trẻ dưới 1 tuổi",
+            "C": "Trẻ bị ốm",
+            "D": "Trẻ em lánh nạn, tị nạn chưa xác định được cha mẹ",
+            "answer": "D"
+        }
+    ]
+},
+{
+    "Level": 2,
+    "NumOfCard": 9,
+    "TopicQuest": "Đây là một thực trạng nghiêm trọng gây ảnh hưởng lớn đến trẻ em",
+    "TopicAnswer": "baoluchocduong",
+    "NameOfPic": "Pic/bacluchocduong.jpg",
+    "Questions":
+    [
+        {
+            "quest": " Bạo lực học đường ở Việt Nam là gì? ",
+            "A": "Là những biểu hiện bạo lực của học sinh, sinh viên trong giờ học, trong khuôn viên  nhà trường",
+            "B": "Là một tệ nạn xã hội cần được xử lý một cách cứng rắn",
+            "C": "Là hiện tượng học sinh, sinh viên dung hành vi bạo lực để giải quyết mâu thuẫn.",
+            "D": "Là một trào lưu của học sinh, sinh viên.",
+            "answer": "C"
+        },
+        {
+            "quest": "Phòng chống bạo lực học đường là trách nhiêm của ai?",
+            "A": "Của nhà trường.",
+            "B": "Của học sinh",
+            "C": "Của gia đình học sinh",
+            "D": "Của tất cả mọi người",
+            "answer": "D"
+        },
+        {
+            "quest": "Những hành vi có tính chất bạo lực học đường có thể xâm hại tới quyền nào của nạn nhân?",
+            "A": "Quyền bất khả xâm phạm về tài sản",
+            "B": "Quyền bất khả xâm phạm về nhân phẩm, danh dự",
+            "C": "Quyền bất khả xâm phạm về tính mạng, sức khỏe",
+            "D": "Tất cả các quyền trên",
+            "answer": "D"
+        },
+        {
+            "quest": "Nếu nhìn thấy tình trạng học sinh đánh nhau em phải làm gì?",
+            "A": "Không làm gì, đó không phải việc vủa mình",
+            "B": "Quay phim, chụp hình đnăg lên mạng cho mọi người cùng xem",
+            "C": "Ngăn chặn bằng các biện pháp cần thiết phù hợp với khả năng của bản thân",
+            "D": "Tránh xa để khỏi bị vạ lây",
+            "answer": "C"
+        },
+        {
+            "quest": "Người chưa thành niên (dưới 18 tuổi) có hành vi xâm hại đến sức khỏe, danh dự, nhân phẩm của người khác thì bị sẽ bị pháp luật trừng trị như thế nào?",
+            "A": "Vì chưa thành niên nên sẽ không bị xử lý.",
+            "B": "Chỉ bị xử lý kỷ luật ở nhà trường",
+            "C": "Có thể bị xử lý hành chính hoặc hình sự (nếu hành vi gây nguy hại đủ lớn)",
+            "D": "Tất cả các đáp án trên đều sai",
+            "answer": "C"
+        },
+        {
+           "quest": "Bạo lực học đường gây ra các tác hại gì?",
+            "A": "Gây ra tổn thương về thân thể và tâm lý của nạn nhân",
+            "B": "Tạo ra sự phát triển nhân cách lệch lạc trong học sinh, sinh viên",
+            "C": "Làm giảm sút học tập của học sinh và ảnh hưởng tới giáo dục của nhà trường ",
+            "D": "Gây ra tất cả những tác hại trên",
+            "answer": "D"
+        },
+        {
+            "quest": "Tại sao phải ngăn chặn bạo lực học đường?",
+            "A": "Vì đó là một trào lưu lệch lạc",
+            "B": "Vì học sinh có thể bị xử lý hình sự bởi hành vi bạo lực của mình",
+            "C": "Vì sự phát triển kinh tế - xã hội",
+            "D": "Vì bạo lực học đường ảnh hưởng to lớn tới việc học tập của học sinh nói riêng và sự giáo dục của nhà trường nói chung, gây những hệ quả xấu đối với sự phát triển toàn diện của xã hội",
+            "answer": "D"
+        },
+        {
+            "quest": "Nguyên nhân nào dưới đây gây nên tình trạng bạo lực học đường?",
+            "A": "Do danh dự của học sinh, sinh viên",
+            "B": "Do stress căng thẳng kéo dài ",
+            "C": "Do ảnh hưởng tiêu cực của xã hội, thiếu sự quan tâm của gia đình, bản thân học sinh ở vào độ tuổi chưa phát triển đầy đủ về tâm sinh lý.",
+            "D": "Do sự xúi giục của người khác đối với các em học sinh.",
+            "answer": "C"
+        },
+        {
+            "quest": "Người chưa thành niên có hành vi gây thiệt hại về sức khỏe, tài sản của người khác mà không có khả năng nộp phạt và khắc phục hậu quả thì ai là người thực hiện nghĩa vụ thay?",
+            "A": "Không có tiền thì không phải thực hiện nghĩa vụ nộp phạt và khắc phục hậu quả",
+            "B": ": Cha mẹ hoặc người giám hộ phải thực hiện thay",
+            "C": "Chưa thành niên nên không không bị phạt tiền",
+            "D": "Cả ba đáp án trên đều sai",
+            "answer": "B"
+        }
+    ]
+},
+{
+    "Level": 3,
+    "NumOfCard": 9,
+    "TopicQuest": "Đây là một thực trạng xấu gây ảnh hưởng lớn đến thể xác và tâm sinh lý trẻ em được đưa ra ánh sáng dư luận trong thời gian gần đây",
+    "TopicAnswer": "xamhaitreem",
+    "NameOfPic": "Pic/xamhaitreem.jpg",
+    "Questions":
+    [
+        {
+            "quest": " Số điện thoại khẩn cấp nào là của tổng đài quốc gia bảo vệ trẻ em ? ",
+            "A": "115",
+            "B": "114",
+            "C": "111",
+            "D": "112",
+            "answer": "C"
+        },
+        {
+            "quest": "Quy tắc 5 ngón  tay giúp gì cho trẻ em ?",
+            "A": "Giúp trẻ em tránh bị xâm hại.",
+            "B": "Giúp trẻ em học giỏi toán hơn ",
+            "C": "Giúp trẻ em nhận biết cơ thể",
+            "D": "Tất cả các phương án trên đều đúng",
+            "answer": "A"
+        },
+        {
+            "quest": "“Xua tay, không tiếp xúc, thậm chí hét to và bỏ chạy nếu những người xa lạ mà trẻ cảm thấy bất an tiến lại gần và có cử chỉ thân mật “ là quy tắc ngón tay nào?",
+            "A": "Ngón tay cái",
+            "B": "Ngón tay út",
+            "C": "Ngón tay áp út",
+            "D": "Ngón tay trỏ",
+            "answer": "B"
+        },
+        {
+            "quest": ": : Khi gặp người quen trẻ nên có thái độ cư xử như thế nào ?",
+            "A": "Bắt tay ",
+            "B": "Ôm hôn",
+            "C": "Ôm cánh tay người quen",
+            "D": "Vẫy tay",
+            "answer": "A"
+        },
+        {
+            "quest": "Bắt trẻ em lao động quá sức để kiếm tiền, phụ giúp gia đình có phải là xâm hại trẻ em không ?",
+            "A": "Không",
+            "B": "Có, đây là hành vi xâm hại",
+            "C": "Chưa hẳn là xâm hại vì trẻ em lao động để phụ giúp gia đình",
+            "D": "Chưa hẳn là xâm hại vì trẻ em lao động để rèn luyện tính cần cù",
+            "answer": "A"
+        },
+        {
+           "quest": "Hành vi nào là xâm hại trẻ em ?",
+            "A": "Tước đoạt quyền được vui chơi, được học hành của trẻ em",
+            "B": "Cưỡng bức, xàm sỡ, đánh đạp trẻ em",
+            "C": "Xâm hại tình dục",
+            "D": "Tất cả các phương án trên đều đúng",
+            "answer": "D"
+        },
+        {
+            "quest": ": Nếu bị xâm hại tình dục, trẻ nên làm gì?",
+            "A": "Hét lên và bỏ chạy",
+            "B": "Vùng vẫy và đánh vào vùng đồ bơi",
+            "C": "Chống cự lại, hét to, bỏ chạy và kể với người thân",
+            "D": "Tất cả các phương án trên đều đúng",
+            "answer": "D"
+        },
+        {
+            "quest": "Nếu trẻ chứng kiến bạn hoặc được bạn kể lại đã bị xâm hại thì trẻ nên chọn phương án nào ?",
+            "A": "Kể lại cho người lớn trong gia đình",
+            "B": "Báo với thầy cô giáo",
+            "C": "Khuyên bạn nên kể với người thân",
+            "D": "Tất cả các phương án trên đều đúng",
+            "answer": "D"
+        },
+        {
+            "quest": "Trẻ em có nên được giáo dục giới tính sớm và dạy kỹ năng thoát hiểm để hiểu và tránh bị xâm hại?",
+            "A": "Không nên ",
+            "B": "Nên giáo dục sớm và phổ cập hướng dẫn kỹ năng cho trẻ",
+            "C": "Nên để tới khi trẻ dậy thì",
+            "D": "Nên để bố mẹ giáo dục giới tính và hướng dẫn kỹ năng thoát hiểm",
+            "answer": "B"
+        }
+    ]
+},
+{
+    "Level": 4,
+    "NumOfCard": 9,
+    "TopicQuest": "Đây là một quyền của trẻ em",
+    "TopicAnswer": "quyenduochoctap",
+    "NameOfPic": "Pic/quyenduochoctap.jpg",
+    "Questions":
+    [
+        {
+            "quest": "Nên cho trẻ đi học từ mấy tuổi là thích hợp nhất?",
+            "A": "18 tháng tuổi ",
+            "B": "3 tuổi",
+            "C": "6 tuổi",
+            "D": "4 tuổi",
+            "answer": "B"
+        },
+        {
+            "quest": "Tháng hành động vì trẻ em được tổ chức vào thời gian nào trong năm?",
+            "A": "Tháng 8",
+            "B": "Tháng 10",
+            "C": "Tháng 6",
+            "D": "Thời gian không nhất định ",
+            "answer": "C"
+        },
+        {
+            "quest": "Những hành vi nào là gây cản trở cho việc học tập của trẻ em?",
+            "A": "Lợi dụng uy tín, dùng vũ lực ép buộc trẻ em bỏ học, nghỉ học",
+            "B": "Bắt buộc, dụ dỗ trẻ em bỏ học, nghỉ học",
+            "C": "Hủy hoại sách, vở, đồ dùng học tập.",
+            "D": "Tất cả các phương án trên. ",
+            "answer": "D"
+        },
+        {
+            "quest": "Thương yêu, đoàn kết, chia sẻ khó khăn, tôn trọng, giúp đỡ bạn bè có nằm trong Luật trẻ em không ?",
+            "A": "Không",
+            "B": "Có tại điều 38 Luật trẻ em",
+            "C": "Có tại điều 1 Luật trẻ em",
+            "D": "Có tại điều 2 Luật trẻ em",
+            "answer": "B"
+        },
+        {
+            "quest": "Nhà nước có chính sách như thế nào để bảo đảm về giáo dục cho trẻ em?",
+            "A": "Hỗ trợ cho trẻ em có hoàn cảnh đặc biệt được đến trường.",
+            "B": "Đưa ra các chương trình, nội dung giáo dục phải phù hợp với từng độ tuổi, từng nhóm đối tượng trẻ em.",
+            "C": "Chú trọng giáo dục truyền thống lịch sử, văn hóa dân tộc và phát triển nhân cách, kỹ năng sống, tài năng, năng khiếu của trẻ em; giáo dục giới tính, sức khỏe sinh sản cho trẻ em.",
+            "D": "Các phương án trên đều đúng",
+            "answer": "D"
+        },
+        {
+            "quest": "Nhà nước có quy định như thế nào về môi trường giáo dục?",
+            "A": "Nhà nước quy định môi trường giáo dục phải an toàn, lành mạnh, thân thiện.",
+            "B": "Nhà nước đưa ra quy định các cơ sở giáo dục phải phòng và chống bạo lực học đường.",
+            "C": "Nhà nước không đưa ra quy định về môi trường giáo dục, các trường học phải tự xây dựng nội quy trường học để tạo ra môi trường giáo dục tốt.",
+            "D": "A và B đúng",
+            "answer": "D"
+        },
+        {
+            "quest": ": Nhà nước có những chính sách nào để thực hiện công bằng giáo dục?",
+            "A": "Phát triển giáo dục mầm non",
+            "B": "Miễn, giảm học phí",
+            "C": "Cấp học bổng, trợ cấp xã hội",
+            "D": "Tất cả các phương án trên",
+            "answer": "D"
+        },
+        {
+            "quest": "Bảo vệ trẻ em được thực hiện theo mấy cấp độ ?",
+            "A": "5",
+            "B": "4",
+            "C": "3",
+            "D": "2",
+            "answer": "C"
+        },
+        {
+            "quest": "Nêu các cấp độ bảo vệ trẻ em ?",
+            "A": "Phòng ngừa",
+            "B": "Hỗ trợ",
+            "C": "Can thiệp",
+            "D": "Cả 3 phương án trên đều đúng.",
+            "answer": "D"
+        }
+    ]
+}]
