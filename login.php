@@ -7,7 +7,7 @@ if ($_POST) {
     if (isset($_POST['user_name']) && isset($_POST['password'])) {
         if ($_POST['user_name'] == 'administrator' && md5($_POST['password']) == '95d47be0d380a7cd3bb5bbe78e8bed49') {
             $_SESSION['user'] = $_POST['user_name'];
-            header('Location: index.php');
+            header('Location: admin.php');
             exit();
         } else {
             $error = 'Tên đăng nhập hoặc tài khoản không đúng';
