@@ -1,6 +1,10 @@
 <?php
 session_start();
 
+ini_set('display_errors', 1);
+ini_set('display_startup_errors', 1);
+error_reporting(E_ALL);
+
 if (!isset($_SESSION['user'])) {
     header('Location: login.php');
     exit();
@@ -15,7 +19,7 @@ $image_path = $base_path . DIRECTORY_SEPARATOR . 'Pic' . DIRECTORY_SEPARATOR;
 $data_file_name = 'Questions_answers.json';
 
 if ($_POST) {
-    $data = [];
+    $data = array();
     // Xu ly upload anh
     foreach ($_POST['group'] as $index => $group) {
         if (!empty($_FILES['group']['name'][$index]['pic_upload'])) {
