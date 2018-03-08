@@ -18,9 +18,9 @@ if ($_POST) {
     $data = [];
     // Xu ly upload anh
     foreach ($_POST['group'] as $index => $group) {
-        if (!empty($_FILES['group']['name'][$index]['NameOfPic'])) {
-            if (move_uploaded_file($_FILES['group']['tmp_name'][$index]['NameOfPic'], $image_path . $_FILES['group']['name'][$index]['NameOfPic'])) {
-                $group['NameOfPic'] = 'Pic/' . $_FILES['group']['name'][$index]['NameOfPic'];
+        if (!empty($_FILES['group']['name'][$index]['pic_upload'])) {
+            if (move_uploaded_file($_FILES['group']['tmp_name'][$index]['pic_upload'], $image_path . $_FILES['group']['name'][$index]['pic_upload'])) {
+                $group['NameOfPic'] = 'Pic/' . $_FILES['group']['name'][$index]['pic_upload'];
             }
         }
         $data[] = $group;
@@ -80,7 +80,8 @@ if ($data) {
                             <p>Câu hỏi chủ đề: <input type="text" name="group[<?= $i ?>][TopicQuest]" value="<?= isset($data[$i]['TopicQuest']) ? $data[$i]['TopicQuest'] : '' ?>"/></p>
                             <p>Đáp án câu hỏi: <input type="text" name="group[<?= $i ?>][TopicAnswer]" value="<?= isset($data[$i]['TopicAnswer']) ? $data[$i]['TopicAnswer'] : '' ?>"/></p>
                             <p>
-                                Hình ảnh: <input type="file" name="group[<?= $i ?>][NameOfPic]"/>
+                                Hình ảnh: <input type="file" name="group[<?= $i ?>][pic_upload]"/>
+                                <input type="hidden" name="group[<?= $i ?>][NameOfPic]" value="<?= $data[$i]['NameOfPic'] ?>"/>
                                 <?php if (!empty($data[$i]['NameOfPic'])) : ?>
                                 <img src="<?= $data[$i]['NameOfPic'] ?>" height="70"/>
                                 <?php endif; ?>
