@@ -3,7 +3,7 @@
 
 <head>
     <title></title>
-    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8"/>
+    <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
     <link rel="stylesheet" type="text/css" href="Style/CSS/Style.css">
     <script type="text/javascript" src="Style/JS/Script.js"></script>
     <script type="text/javascript" src="Style/JS/jquery-3.3.1.min.js"></script>
@@ -11,18 +11,20 @@
 
 <body>
     <div id="main">
-        <div id="GAME">
-            <div id="answer"></div>
-            <div id="memory_board">
-                <span id="StartorNext" onclick="newBoard(0)"> START </span>
-            </div>
-            <dialog id="ABCD">
+        <div id="Quest">
+            <div id="ABCD">
                 <div id="question">
                 </div>
                 <div id="foranswer">
                 </div>
                 <div id="time"></div>
-            </dialog>
+            </div>
+        </div>
+        <div id="GAME">
+            <div id="answer"></div>
+            <div id="memory_board">
+                <span id="StartorNext" onclick="newBoard(0)"> START </span>
+            </div>
         </div>
         <div id="info">
             <div id="mainquest" class="right">
@@ -35,10 +37,9 @@
             </div>
         </div>
     </div>
+    
     <script>
     readJson();
-
-    // newBoard();
     </script>
 </body>
 
