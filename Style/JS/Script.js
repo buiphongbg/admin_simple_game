@@ -106,17 +106,20 @@ function newBoard(val) {
     numofcard = DB[level].NumOfCard;
     newanswer(DB[level].TopicAnswer);
     document.getElementById('memory_board').style.background = 'url(' + DB[level].NameOfPic + ')';
-    document.getElementById('memory_board').style.backgroundSize = 'cover'
+    document.getElementById('memory_board').style.backgroundSize = '95% 95%';
+    document.getElementById('memory_board').style.backgroundRepeat = 'no-repeat';
+    document.getElementById('memory_board').style.backgroundPosition = 'center';
     document.getElementById('foranswer').innerHTML = '<div id="A" onclick="checkABCD(\'A\')"></div> <div id="B" onclick="checkABCD(\'B\')"></div><div id="C" onclick="checkABCD(\'C\')"></div><div id="D" onclick="checkABCD(\'D\')"></div>';
     var output = '';
-    var sizeofcard = Math.floor(650 / Math.sqrt(numofcard)) - 40 - 4;
+    var sizeofcard = (100 / Math.sqrt(numofcard)) -0.5 ;
     for (var i = 0; i < numofcard; i++) {
         memory_array[i] = " ";
-        output += '<div id="tile_' + i + '" style = "height:' + sizeofcard + 'px;width :' + sizeofcard + 'px;" onclick="memoryFlipTile(this,\'' + memory_array[i] + '\')">' + i + '</div>';
+        output += '<div id="tile_' + i + '" style = "height:' + sizeofcard + '%;width :' + sizeofcard + '%;" onclick="memoryFlipTile(this,\'' + memory_array[i] + '\')">' + i + '</div>';
     }
+    document.getElementById('memory_board').innerHTML = output;
+    console.log(document.getElementById('memory_board').style.width - document.getElementById('tile_0').style.width);
     document.getElementById("level").innerHTML = "Level : " + (level + 1);
     document.getElementById("mainQuest").innerHTML = "Câu hỏi chính :" + (mainQuest);
-    document.getElementById('memory_board').innerHTML = output;
 }
 
 

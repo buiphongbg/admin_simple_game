@@ -2,11 +2,10 @@ body {
     background: url("../../Pic/background.jpg");
     background-size: cover;
 }
-
 div#Quest {
     background: rgba(242, 232, 142, 0.8);
     z-index: 1;
-    width: 1368px;
+    width: 100%;
     position: absolute;
     height: 766px;
     padding: 0px;
@@ -19,8 +18,7 @@ div#main {
     z-index: 0;
     background: transparent;
     position: relative;
-    border: #999 1px solid;
-    width: 1368px;
+    width: 90%;
     height: 766px;
     padding: 0px;
     margin: 0px auto;
@@ -29,7 +27,7 @@ div#main {
 div#GAME {
     background: transparent;
     border: #999 1px solid;
-    width: 912px;
+    width: 66%;
     height: 756px;
     padding: 5px;
     float: left;
@@ -39,7 +37,7 @@ div#GAME {
 div#info {
     background: transparent;
     border: #999 1px solid;
-    width: 442px;
+    width: 31.8%;
     height: 766px;
     float: left;
     margin: 0px auto;
@@ -48,7 +46,7 @@ div#info {
 .right {
     background: transparent;
     border: #999 1px solid;
-    width: 375px;
+    width: 85%;
     height: 150px;
     padding: 1px;
     margin: 105px auto;
@@ -80,7 +78,7 @@ div#time {
 div#answer {
     background: transparent;
     height: 90px;
-    width: 890px;
+    width: 98%;
     padding: 0px;
     margin: auto;
     margin-bottom: 10px;
@@ -89,7 +87,7 @@ div#answer {
 div#answer>div {
     background: white;
     border: #000 1px solid;
-    width: 29px;
+    width: 3%;
     height: 29px;
     margin: 1px;
     padding: 1px;
@@ -113,7 +111,7 @@ div#answer>div {
 #ABCD {
     background: rgba(242, 232, 142, 0.8);
     border: #999 1px solid;
-    width: 800px;
+    width: 58%;
     height: 500px;
     padding: 0px;
     margin: 5px auto;
@@ -122,9 +120,9 @@ div#answer>div {
 }
 
 div#question {
-    background: rgba(142, 181, 242, 0.9);
+    background: rgba(204, 106, 106, 0.9);
     border: #000 1px solid;
-    width: 700px;
+    width: 90%;
     height: 30px;
     margin: 1px auto;
     padding: 20px;
@@ -135,7 +133,7 @@ div#question {
 
 div#foranswer {
     background: transparent;
-    width: 700px;
+    width: 90%;
     height: 165px;
     margin: 1px auto;
     padding: 0px;
@@ -147,9 +145,9 @@ div#foranswer {
 div#foranswer>div {
     background: rgba(142, 181, 242, 0.9);
     border: #000 1px solid;
-    width: 600px;
+    width: 95%;
     height: 30px;
-    margin: 10px 30px 10px 30px;
+    margin: 5px auto;
     padding: 20px;
     float: left;
     font-size: 15px;
@@ -160,11 +158,10 @@ div#foranswer>div {
 div#memory_board {
     position: relative;
     border: #999 1px solid;
-    width: 650px;
+    width: 80%;
     height: 650px;
     padding: 0px;
     margin: 5px auto;
-    background: no-repeat fixed;
     position: relative;
     max-width: 100%;
     max-height: 100%;
@@ -188,8 +185,6 @@ div#memory_board>div {
     background: gray;
     border: #000 1px solid;
     float: left;
-    margin: 1px;
-    padding: 20px;
     font-size: 64px;
     cursor: pointer;
     text-align: center;
